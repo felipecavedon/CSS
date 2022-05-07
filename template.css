@@ -1,0 +1,16 @@
+/* ---------- GERAL ---------- */
+* {
+  margin: 0; /* Remove margin of everything */
+  padding: 0; /* Remove padding of everything */
+  box-sizing: border-box; /* Defines globally box sizing without margin */
+}
+
+:root {
+  --primary-color: #00856f; /* Define colors as variables */
+  --headline: #212529;
+  --paragraph: #495057;
+
+  --nav-height: 7.2rem; /* Define specific spaces */
+
+  font-size: 62.5%; /* Define standard font-size to 10px making easier to use rem for accessibility*/
+}
